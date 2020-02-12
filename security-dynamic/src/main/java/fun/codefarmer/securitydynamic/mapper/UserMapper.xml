@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="fun.codefarmer.securitydynamic.mapper.UserMapper">
+    <select id="getUerByUsername" resultType="fun.codefarmer.securitydynamic.pojo.User">
+        select * from user where username = #{username}
+    </select>
+    <select id="getRolesByUserId" resultType="fun.codefarmer.securitydynamic.pojo.Role">
+        SELECT
+            le.*
+        FROM
+            role le
+        LEFT JOIN user_role ul ON le.id = ul.rid
+        WHERE
+            ul.uid = #{id}
+    </select>
+
+
+</mapper>

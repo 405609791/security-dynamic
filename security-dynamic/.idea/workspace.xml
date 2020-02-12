@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="200a77ab-e46a-476d-b433-8fa1fbe3fceb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="mapper" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XZ2KnPaFUO9gIb2V3aavFCLTIW" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="fun.codefarmer.securitydynamic" />
+      <recent name="fun.codefarmer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SecurityDynamicApplication">
+    <configuration name="SecurityDynamicApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="security-dynamic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.codefarmer.securitydynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fun.codefarmer.securitydynamic" />
+      <option name="MAIN_CLASS_NAME" value="fun.codefarmer.securitydynamic.SecurityDynamicApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityDynamicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="security-dynamic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fun.codefarmer.securitydynamic.SecurityDynamicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SecurityDynamicApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="200a77ab-e46a-476d-b433-8fa1fbe3fceb" name="Default Changelist" comment="" />
+      <created>1581239234875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581239234875</updated>
+      <workItem from="1581239240123" duration="6126000" />
+      <workItem from="1581317212431" duration="12891000" />
+      <workItem from="1581402611367" duration="2356000" />
+      <workItem from="1581486042034" duration="5203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Auto_Import" timestamp="1581317930345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1581317930345" />
+    <state x="450" y="201" key="#com.intellij.ide.util.MemberChooser" timestamp="1581486490843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="450" y="201" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581486490843" />
+    <state x="116" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581244994399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="116" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581244994399" />
+    <state x="424" y="396" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581244995999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="396" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1581244995999" />
+    <state width="445" height="466" key="DebuggerActiveHint" timestamp="1581489917478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="445" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1581489917478" />
+    <state width="1216" height="254" key="GridCell.Tab.0.bottom" timestamp="1581490346110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581490346110" />
+    <state width="1216" height="254" key="GridCell.Tab.0.center" timestamp="1581490346110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581490346110" />
+    <state width="1216" height="254" key="GridCell.Tab.0.left" timestamp="1581490346110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581490346110" />
+    <state width="1216" height="254" key="GridCell.Tab.0.right" timestamp="1581490346110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581490346110" />
+    <state width="1216" height="254" key="GridCell.Tab.1.bottom" timestamp="1581490346111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="254" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581490346111" />
+    <state width="1216" height="254" key="GridCell.Tab.1.center" timestamp="1581490346110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="254" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581490346110" />
+    <state width="1216" height="254" key="GridCell.Tab.1.left" timestamp="1581490346110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="254" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581490346110" />
+    <state width="1216" height="254" key="GridCell.Tab.1.right" timestamp="1581490346111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="254" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581490346111" />
+    <state width="1216" height="314" key="GridCell.Tab.2.bottom" timestamp="1581490297309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="314" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581490297309" />
+    <state width="1216" height="314" key="GridCell.Tab.2.center" timestamp="1581490297309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="314" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581490297309" />
+    <state width="1216" height="314" key="GridCell.Tab.2.left" timestamp="1581490297309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="314" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581490297309" />
+    <state width="1216" height="314" key="GridCell.Tab.2.right" timestamp="1581490297309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1216" height="314" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581490297309" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581486045464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581486045464" />
+    <state x="203" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1581323967858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="203" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581323967858" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/fun/codefarmer/securitydynamic/config/MyAccessDecisionManager.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
